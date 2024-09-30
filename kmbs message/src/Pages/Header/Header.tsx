@@ -5,7 +5,7 @@ type Props = {}
 
 function Header({}: Props) {
   return (
-    <div><Navbar/></div>
+    <div className='border-2 border-red-500'><Navbar/></div>
   )
 }
 

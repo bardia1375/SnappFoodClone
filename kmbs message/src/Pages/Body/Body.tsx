@@ -4,7 +4,7 @@ import React from 'react'
 
 function Body() {
   return (
-    <div>Body</div>
+    <div className='border-2 border-black'>Body</div>
   )
 }
 

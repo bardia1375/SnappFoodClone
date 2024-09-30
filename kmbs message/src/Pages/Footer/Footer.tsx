@@ -1,5 +1,5 @@
 export default function Footer (){
     return(
-        <div>mehran koni</div>
+        <div className="border-2 border-green-500">mehran koni</div>
     )
 }
